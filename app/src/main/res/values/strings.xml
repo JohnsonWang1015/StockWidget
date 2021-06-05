@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StockWidget</string>
+    <string name="stock_name">台積電</string>
+    <string name="stock_no">2330</string>
+    <string name="stock_url">https://tw.stock.yahoo.com/q/q?s=</string>
+    <string name="price">價格：</string>
+    <string name="diff">漲跌：</string>
+    <string name="time">時間：</string>
+    <string name="configure">股票設定</string>
+    <string name="add_widget">新增StockWidget</string>
+    <string name="hint">輸入股票號碼</string>
+</resources>
